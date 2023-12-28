@@ -1,5 +1,5 @@
-public class BinarySort {
-    public static int[] binarySort(int[] nums){
+public class BubbleSort {
+    public static int[] bubbleSort(int[] nums){
         for(int i=0;i<nums.length-1;i++){
             for(int j=0;j<nums.length-i-1;j++){
                 if(nums[j]>nums[j+1]){
@@ -14,7 +14,7 @@ public class BinarySort {
 
     public static void main(String[] args) {
         int[] arr = {8,7,2,1,9,10,3};
-        int[] arr1 = binarySort(arr);
+        int[] arr1 = bubbleSort(arr);
         for(int i:arr1){
             System.out.println(i);
         }
