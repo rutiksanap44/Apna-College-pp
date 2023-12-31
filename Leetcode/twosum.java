@@ -3,7 +3,7 @@ public class twosum {
         return nums;
     }
 
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int[] arr1 = { -1, -2, -3, -4, -5 };
         int[] arr = new int[2];
         for (int i = 0; i < arr1.length - 1; i++) {

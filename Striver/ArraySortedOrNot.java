@@ -10,7 +10,7 @@ public class ArraySortedOrNot {
         }
         return ans;
     }
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int[] arr = {90, 80, 100, 70, 40, 30};
         System.out.println(arraySortedOrNot(arr, 0));
     }

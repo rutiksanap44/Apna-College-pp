@@ -1,6 +1,6 @@
 //bruit force method
 public class max_subarray_sum {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int[] arr = {1,2,-3,3,4,-4};
         int finalSum = 0;
         int currentSum = 0;

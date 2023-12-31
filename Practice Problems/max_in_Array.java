@@ -8,7 +8,7 @@ Write your code in this editor and press "Run" button to execute it.
 
 public class max_in_Array
 {
-	public static void main(String[] args) {
+	public static void main(String1[] args) {
 		int[] arr = {12,1,23,4,99,1111,32,57,56};
 		int max=0;
 		for(int i:arr){

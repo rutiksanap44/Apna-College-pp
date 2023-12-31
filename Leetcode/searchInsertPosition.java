@@ -19,7 +19,7 @@ public class searchInsertPosition {
         };
         return ans;
     };
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
     int[] arr = {1,3,5,6};
     int answer = searchInsert(arr, 5);
     System.out.println(answer);

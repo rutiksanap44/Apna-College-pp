@@ -8,7 +8,7 @@ Write your code in this editor and press "Run" button to execute it.
 
 public class stock_market
 {
-	public static void main(String[] args) {
+	public static void main(String1[] args) {
 	    int sum = 0;
 	    int finalSum = 0;
 	    int thirdSum = 0;

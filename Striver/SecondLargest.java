@@ -1,5 +1,5 @@
 public class SecondLargest {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int[] arr = {-20, -30, 40, 25, 10};
         int Largest = arr[0];
         int secondLargest = Integer.MIN_VALUE;

@@ -9,7 +9,7 @@ public class removeElement {
         }
         return count;
     }
-    public static void main(String[] args){
+    public static void main(String1[] args){
         int[] arr1 = {0,1,2,2,3,0,4,2};
         int arr = removeElement(arr1, 2);
         // for(int i:arr){

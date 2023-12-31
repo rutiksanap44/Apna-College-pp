@@ -14,7 +14,7 @@ public class zeroOne {
             System.out.println();
         }
     }
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         printZeroOne(n);

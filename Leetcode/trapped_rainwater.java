@@ -31,7 +31,7 @@ public class trapped_rainwater {
         }
         return trappedWater;
     }
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int arr[] = {3,1,4};
         // trappedRainwater(arr);
         System.out.println(trappedRainwater(arr));

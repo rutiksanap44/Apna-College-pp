@@ -1,5 +1,5 @@
 public class max_subarray_prefix {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int[] arr = {1,-2,6,-1,3};
         int[] arr1 = new int[arr.length];
         int sum = 0;
